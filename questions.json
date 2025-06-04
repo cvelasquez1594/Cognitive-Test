@@ -1,0 +1,343 @@
+
+{
+  "_comment": "Level 1",
+  "question": "What is 3 + 2?",
+  "answers": {
+    "5": {
+      "_comment": "Level 2",
+      "question": "Which animal barks?",
+      "answers": {
+        "Cat": {
+          "_comment": "Level 3",
+          "question": "What is the freezing point of water (\u00b0C)?",
+          "answers": {
+            "0": {
+              "_comment": "Level 4",
+              "question": "Which shape has three sides?",
+              "answers": {
+                "Triangle": {
+                  "_comment": "Level 5",
+                  "question": "What is the chemical symbol for water?",
+                  "answers": {
+                    "CO2": "Low Cognitive Ability",
+                    "H2O": "High Cognitive Ability"
+                  },
+                  "scores": {
+                    "CO2": 0,
+                    "H2O": 10
+                  }
+                },
+                "Square": {
+                  "_comment": "Level 5",
+                  "question": "What color are strawberries?",
+                  "answers": {
+                    "Blue": "Low Cognitive Ability",
+                    "Red": "High Cognitive Ability"
+                  },
+                  "scores": {
+                    "Blue": 0,
+                    "Red": 10
+                  }
+                }
+              },
+              "scores": {
+                "Triangle": 10,
+                "Square": 0
+              }
+            },
+            "100": {
+              "_comment": "Level 4",
+              "question": "What is the chemical symbol for water?",
+              "answers": {
+                "H2O": {
+                  "_comment": "Level 5",
+                  "question": "What color are strawberries?",
+                  "answers": {
+                    "Red": "High Cognitive Ability",
+                    "Blue": "Low Cognitive Ability"
+                  },
+                  "scores": {
+                    "Red": 10,
+                    "Blue": 0
+                  }
+                },
+                "CO2": {
+                  "_comment": "Level 5",
+                  "question": "Which planet is known as the Red Planet?",
+                  "answers": {
+                    "Mars": "High Cognitive Ability",
+                    "Venus": "Low Cognitive Ability"
+                  },
+                  "scores": {
+                    "Mars": 10,
+                    "Venus": 0
+                  }
+                }
+              },
+              "scores": {
+                "H2O": 10,
+                "CO2": 0
+              }
+            }
+          },
+          "scores": {
+            "0": 10,
+            "100": 0
+          }
+        },
+        "Dog": {
+          "_comment": "Level 3",
+          "question": "Which shape has three sides?",
+          "answers": {
+            "Square": {
+              "_comment": "Level 4",
+              "question": "What is the chemical symbol for water?",
+              "answers": {
+                "H2O": {
+                  "_comment": "Level 5",
+                  "question": "What color are strawberries?",
+                  "answers": {
+                    "Red": "High Cognitive Ability",
+                    "Blue": "Low Cognitive Ability"
+                  },
+                  "scores": {
+                    "Red": 10,
+                    "Blue": 0
+                  }
+                },
+                "CO2": {
+                  "_comment": "Level 5",
+                  "question": "Which planet is known as the Red Planet?",
+                  "answers": {
+                    "Venus": "Low Cognitive Ability",
+                    "Mars": "High Cognitive Ability"
+                  },
+                  "scores": {
+                    "Venus": 0,
+                    "Mars": 10
+                  }
+                }
+              },
+              "scores": {
+                "H2O": 10,
+                "CO2": 0
+              }
+            },
+            "Triangle": {
+              "_comment": "Level 4",
+              "question": "What color are strawberries?",
+              "answers": {
+                "Red": {
+                  "_comment": "Level 5",
+                  "question": "Which planet is known as the Red Planet?",
+                  "answers": {
+                    "Venus": "Low Cognitive Ability",
+                    "Mars": "High Cognitive Ability"
+                  },
+                  "scores": {
+                    "Venus": 0,
+                    "Mars": 10
+                  }
+                },
+                "Blue": {
+                  "_comment": "Level 5",
+                  "question": "How many legs does a spider have?",
+                  "answers": {
+                    "8": "High Cognitive Ability",
+                    "6": "Low Cognitive Ability"
+                  },
+                  "scores": {
+                    "8": 10,
+                    "6": 0
+                  }
+                }
+              },
+              "scores": {
+                "Red": 10,
+                "Blue": 0
+              }
+            }
+          },
+          "scores": {
+            "Square": 0,
+            "Triangle": 10
+          }
+        }
+      },
+      "scores": {
+        "Cat": 0,
+        "Dog": 10
+      }
+    },
+    "4": {
+      "_comment": "Level 2",
+      "question": "What is the freezing point of water (\u00b0C)?",
+      "answers": {
+        "0": {
+          "_comment": "Level 3",
+          "question": "Which shape has three sides?",
+          "answers": {
+            "Square": {
+              "_comment": "Level 4",
+              "question": "What is the chemical symbol for water?",
+              "answers": {
+                "H2O": {
+                  "_comment": "Level 5",
+                  "question": "What color are strawberries?",
+                  "answers": {
+                    "Red": "High Cognitive Ability",
+                    "Blue": "Low Cognitive Ability"
+                  },
+                  "scores": {
+                    "Red": 10,
+                    "Blue": 0
+                  }
+                },
+                "CO2": {
+                  "_comment": "Level 5",
+                  "question": "Which planet is known as the Red Planet?",
+                  "answers": {
+                    "Venus": "Low Cognitive Ability",
+                    "Mars": "High Cognitive Ability"
+                  },
+                  "scores": {
+                    "Venus": 0,
+                    "Mars": 10
+                  }
+                }
+              },
+              "scores": {
+                "H2O": 10,
+                "CO2": 0
+              }
+            },
+            "Triangle": {
+              "_comment": "Level 4",
+              "question": "What color are strawberries?",
+              "answers": {
+                "Red": {
+                  "_comment": "Level 5",
+                  "question": "Which planet is known as the Red Planet?",
+                  "answers": {
+                    "Mars": "High Cognitive Ability",
+                    "Venus": "Low Cognitive Ability"
+                  },
+                  "scores": {
+                    "Mars": 10,
+                    "Venus": 0
+                  }
+                },
+                "Blue": {
+                  "_comment": "Level 5",
+                  "question": "How many legs does a spider have?",
+                  "answers": {
+                    "6": "Low Cognitive Ability",
+                    "8": "High Cognitive Ability"
+                  },
+                  "scores": {
+                    "6": 0,
+                    "8": 10
+                  }
+                }
+              },
+              "scores": {
+                "Red": 10,
+                "Blue": 0
+              }
+            }
+          },
+          "scores": {
+            "Square": 0,
+            "Triangle": 10
+          }
+        },
+        "100": {
+          "_comment": "Level 3",
+          "question": "What is the chemical symbol for water?",
+          "answers": {
+            "H2O": {
+              "_comment": "Level 4",
+              "question": "What color are strawberries?",
+              "answers": {
+                "Blue": {
+                  "_comment": "Level 5",
+                  "question": "Which planet is known as the Red Planet?",
+                  "answers": {
+                    "Mars": "High Cognitive Ability",
+                    "Venus": "Low Cognitive Ability"
+                  },
+                  "scores": {
+                    "Mars": 10,
+                    "Venus": 0
+                  }
+                },
+                "Red": {
+                  "_comment": "Level 5",
+                  "question": "How many legs does a spider have?",
+                  "answers": {
+                    "8": "High Cognitive Ability",
+                    "6": "Low Cognitive Ability"
+                  },
+                  "scores": {
+                    "8": 10,
+                    "6": 0
+                  }
+                }
+              },
+              "scores": {
+                "Blue": 0,
+                "Red": 10
+              }
+            },
+            "CO2": {
+              "_comment": "Level 4",
+              "question": "Which planet is known as the Red Planet?",
+              "answers": {
+                "Venus": {
+                  "_comment": "Level 5",
+                  "question": "How many legs does a spider have?",
+                  "answers": {
+                    "8": "High Cognitive Ability",
+                    "6": "Low Cognitive Ability"
+                  },
+                  "scores": {
+                    "8": 10,
+                    "6": 0
+                  }
+                },
+                "Mars": {
+                  "_comment": "Level 5",
+                  "question": "Which organ pumps blood?",
+                  "answers": {
+                    "Heart": "High Cognitive Ability",
+                    "Liver": "Low Cognitive Ability"
+                  },
+                  "scores": {
+                    "Heart": 10,
+                    "Liver": 0
+                  }
+                }
+              },
+              "scores": {
+                "Venus": 0,
+                "Mars": 10
+              }
+            }
+          },
+          "scores": {
+            "H2O": 10,
+            "CO2": 0
+          }
+        }
+      },
+      "scores": {
+        "0": 10,
+        "100": 0
+      }
+    }
+  },
+  "scores": {
+    "5": 10,
+    "4": 0
+  }
+}
